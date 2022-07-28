@@ -15,7 +15,7 @@ class App {
         this.app.use(express.json());
     };
 
-    private start(PORT: string | number): void {
+    public start(PORT: string | number): void {
         this.app.listen(PORT, () => console.log(` Running on port ${PORT}`))
     }
 }
