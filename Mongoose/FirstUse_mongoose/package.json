@@ -1,0 +1,11 @@
+{
+  "name": "firstuse_mongoose",
+  "version": "1.0.0",
+  "description": "First use ODM(Mongoose)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Santos",
+  "license": "ISC"
+}
